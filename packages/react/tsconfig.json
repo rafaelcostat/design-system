@@ -1,0 +1,4 @@
+{
+  "extends": "@refa-ui/ts-config/react.json",
+  "include": ["src"],
+}

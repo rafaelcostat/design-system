@@ -1,0 +1,10 @@
+{
+  "name": "@refa-ui/eslint-config",
+  "license": "MIT",
+  "private": true,
+  "main": "index.js",
+  "devDependencies": {
+    "@rafaelcostat/eslint-config": "^1.0.3",
+    "eslint": "^8.56.0"
+  }
+}
